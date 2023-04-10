@@ -35,7 +35,7 @@ dependencies:
   # https://github.com/flutter/flutter/issues/46264
   flutter_secure_storage_linux: 
     git:
-      url: git@github.com:Mino5531/flutter_secure_storage.git
+      url: https://github.com/Mino5531/flutter_secure_storage.git
       ref: dep
       path: flutter_secure_storage_linux
   flutter_secure_storage_macos: ^3.0.0
